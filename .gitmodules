@@ -1,0 +1,21 @@
+[submodule "Android-1"]
+	path = Android-1
+	url = https://github.com/voidrealms/Android-1.git
+[submodule "Android-2"]
+	path = Android-2
+	url = https://github.com/voidrealms/Android-2.git
+[submodule "Android-3"]
+	path = Android-3
+	url = https://github.com/voidrealms/Android-3.git
+[submodule "Android-4"]
+	path = Android-4
+	url = https://github.com/voidrealms/Android-4.git
+[submodule "Android-5"]
+	path = Android-5
+	url = https://github.com/voidrealms/Android-5.git
+[submodule "Android-6"]
+	path = Android-6
+	url = https://github.com/voidrealms/Android-6.git
+[submodule "Android-7"]
+	path = Android-7
+	url = https://github.com/voidrealms/Android-7.git
